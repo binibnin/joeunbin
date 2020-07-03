@@ -1,0 +1,44 @@
+*{margin: 0;}
+html,body {width: 100%;}
+
+.logo_form{height: 80px; background-color: #443f3c; text-align: center;}
+.logotext_form{color: #d8b652; font-family: 'Song Myung', serif; font-size: 2em;
+ font-weight: 100; letter-spacing: .1em; position:relative; top: 14px;}
+
+ .logotext_form a:link{text-decoration: none; color: #d0b051;}
+   .logotext_form a:visited{color: #d0b051;}
+   .logotext_form a:active{color: #d0b051;}
+   .logotext_form a:hover{color: #d0b051;}
+
+ .menu_form{height: 40px; background-color: #443f3c; text-align: center;}
+.menutext_form{display: inline-block; margin: 2px 70px 70px 20px; font-size: 1em;  font-family: 'Song Myung', serif;
+font-weight: 400;}
+
+.menutext_form a:link{text-decoration: none; color: #cfcac4;}
+  .menutext_form a:visited{color: #cfcac4;}
+  .menutext_form a:active{color: #cfcac4;}
+  .menutext_form a:hover{color: #8f8775;}
+
+  #pr{height: 650px; width: 100%; background-size: cover; background-attachment: fixed; overflow: hidden;}
+
+.p1{background-image: url(../img/01.png);}
+.p2{background-image: url(../img/02.png);}
+.p3{background-image: url(../img/03.png);}
+
+.posi{text-align: right; margin-top: 320px;}
+.posi :hover{transform: scale(1,1.3); transition: 1s;}
+.posi2 {text-align: left; margin-top: 250px;}
+.posi2 :hover{transform: scale(1,1.3); transition: 1s;}
+
+.footer_form{height: 80px; background-color:#443f3c; }
+.footertext_form{color: #dfdad4;  font-family: 'Song Myung', serif; font-size: 0.9em;
+font-weight: 300; text-align: center; position: relative; top: 35%; text-transform: uppercase;}
+
+.p01_top{background-image: url(../img/p1_01.png);height: 400px;background-size: cover;}
+.p01_body{text-align: center;}
+
+.p02_top{background-image: url(../img/p2_01.png);height: 400px;background-size: cover;}
+.p02_body{text-align: center;}
+
+.p03_top{background-image: url(../img/p3_01.png);height: 400px;background-size: cover;}
+.p03_body{text-align: center;}
